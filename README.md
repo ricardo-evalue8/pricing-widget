@@ -1,5 +1,9 @@
 # Pricing Widget
-This widget show pricing on your website
+This widget shows pricing on your website
+Widget version
+```
+Alpha 1.0
+```
 
 ## Getting started
 
@@ -12,7 +16,7 @@ A step by step series of examples that tell you how to get the widget running on
 
 Create your first pricing info
 
-```
+
 **name**
 Free
 
@@ -21,6 +25,7 @@ This is an free subscription
 
 **price**
 $ 0.00
-```
+
+
 
 More info coming soon...!
