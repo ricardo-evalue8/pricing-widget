@@ -18,14 +18,17 @@ Create your first pricing info
 
 
 **name**
+<br />
 Free
 
 **info**
+<br />
 This is an free subscription
 
 **price**
+<br />
 $ 0.00
-
-
-
+<br />
+<br />
+<br />
 More info coming soon...!
