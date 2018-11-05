@@ -1,11 +1,8 @@
 {
     "name": "eValue8/pricing",
-    "description": "This will show pricing on your website.",
+    "description": "A widget that wil show pricing on your website",
     "type": "bolt-extension",
-    "keywords": [
-        "pricing",
-        "price"
-    ],
+    "keywords": ["pricing", "price", "buy", "sell", "tool"],
     "require": {
         "bolt/bolt": "^3.0"
     },
@@ -15,8 +12,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ricardo",
-            "email": "ricardo@evalue8.nl"
+            "name": "Ricardo Rakt / eValue8 BV",
+            "email": "ricardo@evalue8.nl",
+            "homepage": "http://evalue8.nl"
+        }, {
+            "name": "Yoni",
+            "email": "yoni@evalue8.nl"
+        }, {
+            "name": "info account",
+            "email": "info@evalue8.nl"
         }
     ],
     "minimum-stability": "dev",
@@ -33,7 +37,11 @@
         }
     },
     "extra": {
+        "bolt-icon": "bolt-menu-editor.png",
         "bolt-assets": "web",
-        "bolt-class": "Bolt\\Extension\\eValue8\\Pricing\\PricingExtension"
+        "bolt-class": "Bolt\\Extension\\eValue8\\Pricing\\PricingExtension",
+        "bolt-screenshots": [
+            "screenshot.png"
+        ]
     }
 }
